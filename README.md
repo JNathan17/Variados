@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JNathan17
-- 👨‍🎓 Estudante de Ciência da computação, atualmente estou cursando o 5° semestre.
+- 👨‍🎓 Estunte de Ciência da computação, atualmente estou cursando o 5° semestre.
 - 🎯 Interesse: Java, HTML, CSS e JavaScript.
-- 🌱  Dev Jr.
+- 🌱 Dev Jr.
 - 📫 How to reach me  jnathantavares17@gmail.com
 
 <!---
