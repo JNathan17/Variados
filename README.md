@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JNathan17
-- 👀 I’m interested in desenvolvimento web 
-- 🌱 I’m currently learning  Desenvolvimento web
-- 💞️ I’m looking to collaborate on ...
+- 👨‍🎓 Estudante de Ciência da computação, atualmente estou cursando o 5° semestre.
+- 🎯 Interesse: Java, HTML, CSS e JavaScript.
+- 🌱  Dev Jr.
 - 📫 How to reach me  jnathantavares17@gmail.com
 
 <!---
