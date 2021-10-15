@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JNathan17
-- 👨‍🎓 Estunte de Ciência da computação, atualmente estou cursando o 5° semestre.
-- 🎯 Interesse: Java, HTML, CSS e JavaScript.
+- 👨‍🎓 Computer Science student, I am currently attending the 5th semester.
+- 🎯 Interest: Java, HTML, CSS and JavaScript.
 - 🌱 Dev Jr.
 - 📫 How to reach me  jnathantavares17@gmail.com
 
