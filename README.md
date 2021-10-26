@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JNathan17
-- 👨‍🎓 Computer Science student, I am currently attending the 5th semester.
+- 👨‍🎓 Computer Science student, I am currently attending the 6th semester.
 - 🎯 Interest: Java, HTML, CSS and JavaScript.
 - 🌱 Dev Jr.
 - 📫 How to reach me  jnathantavares17@gmail.com
